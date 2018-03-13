@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/xerces/src/CMakeLists.txt
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/xerces/src/xercesc/util/MsgLoaders/Win32/Version.rc.cmake.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/xerces/src/XercesCConfig.cmake.in
+C:/Program Files/CMake/share/cmake-3.10/Modules/BasicConfigVersion-SameMajorVersion.cmake.in

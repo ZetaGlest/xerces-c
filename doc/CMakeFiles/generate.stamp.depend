@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+C:/Users/mathu/Downloads/zetaglest-source-develop/mk/windows/dependencies/src/xerces/doc/CMakeLists.txt
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindJava.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/CMakeFindJavaCommon.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.10/Modules/FindPackageMessage.cmake

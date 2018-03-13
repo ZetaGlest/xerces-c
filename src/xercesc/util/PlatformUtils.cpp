@@ -69,9 +69,6 @@
 #if XERCES_USE_MUTEXMGR_NOTHREAD
 #	include <xercesc/util/MutexManagers/NoThreadMutexMgr.hpp>
 #endif
-#if XERCES_USE_MUTEXMGR_STD
-#	include <xercesc/util/MutexManagers/StdMutexMgr.hpp>
-#endif
 #if XERCES_USE_MUTEXMGR_POSIX
 #	include <xercesc/util/MutexManagers/PosixMutexMgr.hpp>
 #endif
@@ -103,6 +100,9 @@
 #endif
 #if XERCES_USE_MSGLOADER_INMEMORY
 #	include <xercesc/util/MsgLoaders/InMemory/InMemMsgLoader.hpp>
+#endif
+#if XERCES_USE_WIN32_MSGLOADER
+#	include <xercesc/util/MsgLoaders/Win32/Win32MsgLoader.hpp>
 #endif
 
 #include <xercesc/util/TransService.hpp>
@@ -445,6 +445,8 @@ XMLMsgLoader* XMLPlatformUtils::loadAMsgSet(const XMLCh* const msgDomain)
 		ms = new ICUMsgLoader(msgDomain);
 	#elif defined (XERCES_USE_MSGLOADER_ICONV)
 		ms = new MsgCatalogLoader(msgDomain);
+    #elif defined (XERCES_USE_WIN32_MSGLOADER)
+		ms = new Win32MsgLoader(msgDomain);
 	#elif defined (XERCES_USE_MSGLOADER_INMEMORY)
 		ms = new InMemMsgLoader(msgDomain);
 	#else
@@ -724,8 +726,6 @@ XMLMutexMgr* XMLPlatformUtils::makeMutexMgr(MemoryManager* const memmgr)
 
 	#if XERCES_USE_MUTEXMGR_NOTHREAD
 		mgr = new (memmgr) NoThreadMutexMgr;
-	#elif XERCES_USE_MUTEXMGR_STD
-		mgr = new (memmgr) StdMutexMgr;
 	#elif XERCES_USE_MUTEXMGR_POSIX
 		mgr = new (memmgr) PosixMutexMgr;
 	#elif XERCES_USE_MUTEXMGR_WINDOWS

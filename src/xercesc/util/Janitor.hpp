@@ -155,8 +155,6 @@ private :
 };
 
 
-XERCES_TEMPLATE_EXTERN template class XMLUTIL_EXPORT ArrayJanitor<XMLByte>;
-XERCES_TEMPLATE_EXTERN template class XMLUTIL_EXPORT ArrayJanitor<XMLCh>;
 
 
 XERCES_CPP_NAMESPACE_END

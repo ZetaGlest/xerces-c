@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\apidocs.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\applications.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\bug-report.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\build.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\charter.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\createdoc.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\domcount.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\domprint.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\download.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\enumval.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\faq-build.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\faq-contributing.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\faq-distrib.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\faq-other.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\faq-parse.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\feedback.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\install.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\mailing-lists.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\memparse.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\migration.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\migration_archive.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\pparse.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\program-dom.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\program-others.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\program-sax.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\program-sax2.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\program.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\psviwriter.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\readme.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\redirect.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\releases.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\releases_archive.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\releases_plan.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\samples.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\sax2count.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\sax2print.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\saxcount.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\saxprint.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\schema.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\scmprint.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\secadv.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\senumval.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\source-repository.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\stdinparse.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\xerces-c_book.xml" />
+    <XML Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\doc\xinclude.xml" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

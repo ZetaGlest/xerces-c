@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\stricmp.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\stricmp.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\strnicmp.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\strnicmp.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\towlower.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\towlower.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\towupper.c">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="C:\Users\mathu\Downloads\zetaglest-source-develop\mk\windows\dependencies\src\xerces\src\towupper.h">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9880EACF-715E-3D11-9C58-77FFEABC47FE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{FE0E853A-145D-3434-AF04-00FE69FDEE61}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
